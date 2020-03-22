@@ -76,7 +76,7 @@ int main()
 	{
 		if(isLychrel(i))
 		{
-			cout<<i<<endl;
+//			cout<<i<<endl;
 			ctr++;
 		}
 	}
