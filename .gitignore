@@ -1,6 +1,5 @@
 #Avoid all exe files
 *.exe
-untitled%.*
 CMakeLists.txt
 cmake-build-debug/
 .idea/
